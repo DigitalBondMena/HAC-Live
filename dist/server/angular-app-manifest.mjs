@@ -13,7 +13,7 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "redirectTo": "/*/home",
     "route": "/*"
@@ -21,105 +21,133 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-NUY5ARFX.js"
+      "chunk-ZXYIUK4N.js"
     ],
     "route": "/*/login"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-NUY5ARFX.js"
+      "chunk-ZXYIUK4N.js"
     ],
     "route": "/*/register"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-NUY5ARFX.js"
+      "chunk-ZXYIUK4N.js"
     ],
     "route": "/*/register/personal"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-NUY5ARFX.js"
+      "chunk-ZXYIUK4N.js"
     ],
     "route": "/*/register/password"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-NUY5ARFX.js"
+      "chunk-ZXYIUK4N.js"
     ],
     "route": "/*/register/address"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-ZXYIUK4N.js"
+    ],
+    "route": "/*/register/*"
+  },
+  {
+    "renderMode": 0,
+    "preload": [
+      "chunk-ZXYIUK4N.js"
+    ],
+    "route": "/*/register/*/personal"
+  },
+  {
+    "renderMode": 0,
+    "preload": [
+      "chunk-ZXYIUK4N.js"
+    ],
+    "route": "/*/register/*/password"
+  },
+  {
+    "renderMode": 0,
+    "preload": [
+      "chunk-ZXYIUK4N.js"
+    ],
+    "route": "/*/register/*/address"
+  },
+  {
+    "renderMode": 0,
+    "preload": [
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/home"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/wishlist"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/blogs"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/blog/*"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/shopping"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/product-details/*"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/about-us"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/contact-us"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/cart"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "redirectTo": "/*/profile/personal",
     "route": "/*/profile"
@@ -127,49 +155,49 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/profile/personal"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/profile/orders"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/profile/address"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/profile/password"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/profile/account-management"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/privacy"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "redirectTo": "/*/checkout/checkout-address",
     "route": "/*/checkout"
@@ -177,28 +205,28 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/checkout/checkout-address"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/checkout/payment"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/checkout/track-order"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VBKZUKBU.js"
+      "chunk-WNU2D6BW.js"
     ],
     "route": "/*/checkout/track-order/*"
   },
@@ -210,8 +238,8 @@ export default {
 ],
   entryPointToBrowserMapping: undefined,
   assets: {
-    'index.csr.html': {size: 43022, hash: '1ab1ee176028a10dc8787ae6e13127bdc6d29e999ed661b217b644b404af2266', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
-    'index.server.html': {size: 4063, hash: '97f7299149cfd87ed4c0ae219c5f10f8583ecce325c41900592c353b7e2b0b5d', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
-    'styles-R3WTUXMP.css': {size: 234303, hash: 'kFGi/1i1ACo', text: () => import('./assets-chunks/styles-R3WTUXMP_css.mjs').then(m => m.default)}
+    'index.csr.html': {size: 43152, hash: 'df1d9d7044c5cdb0667cb4651d70f8634cff19e3b94259c1502516811eaa47c2', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
+    'index.server.html': {size: 4151, hash: '2f4bdb57c89903745221a4c2c4f2e1bef24f092798a776a579d4b6a66dceb6fd', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
+    'styles-MWJF626Z.css': {size: 234945, hash: '5J9LTwZS+hA', text: () => import('./assets-chunks/styles-MWJF626Z_css.mjs').then(m => m.default)}
   },
 };

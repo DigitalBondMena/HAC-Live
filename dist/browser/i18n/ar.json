@@ -14,10 +14,13 @@
     "main-title": "تابع",
     "title": "هل لديك أي أسئلة؟!"
   },
+  "Limit_Exeeds": "تم تجاوز الحد",
   "Loading": "جاري التسجيل",
   "Login_failed": "فشل تسجيل الدخول",
   "Login_successful": "تم تسجيل الدخول بنجاح",
   "No_articles": "No articles found .",
+  "Password_characters": "كلمه المرور يجب ان لا تقل عن 6 حروف او ارقام",
+  "Password_required": "كلمه المرور مطلوبه",
   "PaymentMethodAr_ap": "أبل باي",
   "PaymentMethodAr_md": "مدى",
   "PaymentMethodAr_stc": "STC Pay",
@@ -230,6 +233,8 @@
       "title": "تسجيل الدخول | حياة الأفكار"
     },
     "register": {
+      "as-business": "تسجيل كشركة",
+      "as-user": "تسجيل كمستخدم",
       "description": "إنشاء حسابك",
       "register-form": {
         "address": {
@@ -320,6 +325,29 @@
           }
         },
         "personal": {
+          "business": {
+            "commercial-file": {
+              "label": "ملف السجل التجاري",
+              "placeholder": "قم بتحميل ملف السجل التجاري",
+              "required": "ملف السجل التجاري مطلوب"
+            },
+            "national-address": {
+              "label": "العنوان الوطني",
+              "placeholder": "أدخل العنوان الوطني للشركة",
+              "required": "العنوان الوطني مطلوب"
+            },
+            "trade-name": {
+              "label": "الاسم التجاري",
+              "placeholder": "أدخل الاسم التجاري للشركة",
+              "required": "الاسم التجاري مطلوب"
+            },
+            "vat-file": {
+              "label": "ملف تسجيل ضريبة القيمة المضافة",
+              "placeholder": "قم بتحميل ملف تسجيل ضريبة القيمة المضافة",
+              "required": "ملف تسجيل ضريبة القيمة المضافة مطلوب"
+            }
+          },
+          "business-info": "معلومات الشركة",
           "description": "إنشاء حسابك - الخطوة 1: المعلومات الشخصية",
           "genders": {
             "female": "انثى",
@@ -1197,7 +1225,7 @@
     "password-mismatch": "كلمة المرور غير متطابقة",
     "password-required": "كلمة المرور مطلوبة",
     "phone-format": "رقم الهاتف غير صالح",
-    "phone-min-length": "يجب أن يتكون رقم الهاتف من 8 أرقام على الأقل",
+    "phone-min-length": "يجب أن يتكون رقم الهاتف من 9 أرقام على الأقل",
     "phone-required": "رقم الهاتف مطلوب",
     "your-msg-min-length": "رسالة المستخدم يجب أن تكون أطول من 10 أحرف",
     "your-msg-required": "رسالة المستخدم مطلوبة"

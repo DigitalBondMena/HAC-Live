@@ -14,10 +14,13 @@
     "main-title": "follow along",
     "title": "do you have any questions !?"
   },
+  "Limit_Exeeds": "Limit Exeeds",
   "Loading": "loading",
   "Login_failed": "Login failed",
   "Login_successful": "login successfull",
   "No_articles": "لا يوجد مقالات",
+  "Password_characters": "Password must be at least 6 characters",
+  "Password_required": "Password is required",
   "PaymentMethodAr_ap": "Apple pay",
   "PaymentMethodAr_md": "mada",
   "PaymentMethodAr_stc": "STC Pay",
@@ -226,6 +229,8 @@
       "title": "Login | Hayat Alafkar"
     },
     "register": {
+      "as-business": "Register as Business",
+      "as-user": "Register as User",
       "description": "Create your account",
       "register-form": {
         "address": {
@@ -319,6 +324,29 @@
           "title": "Register - Password | Hayat Alafkar"
         },
         "personal": {
+          "business": {
+            "commercial-file": {
+              "label": "Commercial Registration File",
+              "placeholder": "Upload your commercial registration file",
+              "required": "Commercial registration file is required"
+            },
+            "national-address": {
+              "label": "National Address",
+              "placeholder": "Enter your business national address",
+              "required": "National address is required"
+            },
+            "trade-name": {
+              "label": "Trade Name",
+              "placeholder": "Enter your business trade name",
+              "required": "Trade name is required"
+            },
+            "vat-file": {
+              "label": "VAT Registration File",
+              "placeholder": "Upload your VAT registration file",
+              "required": "VAT registration file is required"
+            }
+          },
+          "business-info": "Business Information",
           "description": "Create your account - Step 1: Personal Information",
           "genders": {
             "female": "female",
@@ -1185,7 +1213,7 @@
     "password-mismatch": "Passwords do not match",
     "password-required": "Password is required",
     "phone-format": "Phone must be a valid number",
-    "phone-min-length": "Phone number must be at least 8 digits",
+    "phone-min-length": "Phone number must be at least 9 digits",
     "phone-required": "Phone is required",
     "your-msg-min-length": "Your message must be at least 10 characters long",
     "your-msg-required": "Your message is required"
