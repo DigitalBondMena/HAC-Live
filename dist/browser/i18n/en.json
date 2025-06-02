@@ -362,7 +362,7 @@
     "taps": {
       "address": "Address",
       "password": "Password",
-      "personal": "Personal"
+      "personal": "information"
     }
   },
   "availability": "Available Products",
