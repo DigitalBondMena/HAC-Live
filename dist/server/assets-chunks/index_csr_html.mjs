@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+export default `<!DOCTYPE html>
 <html lang="ar" dir="rtl" data-beasties-container="">
   <head>
     <meta charset="utf-8">
@@ -53,3 +53,4 @@
     <app-root></app-root>
   <link rel="modulepreload" href="chunk-5XA2WOC3.js"><link rel="modulepreload" href="chunk-DTYDTCFG.js"><link rel="modulepreload" href="chunk-QCWKL4HV.js"><link rel="modulepreload" href="chunk-TZFLKFOV.js"><link rel="modulepreload" href="chunk-O254WUDV.js"><link rel="modulepreload" href="chunk-BUHXNJXV.js"><link rel="modulepreload" href="chunk-V2JM4PL5.js"><link rel="modulepreload" href="chunk-DENLA4UO.js"><link rel="modulepreload" href="chunk-ZEHSBIMK.js"><link rel="modulepreload" href="chunk-IRRAO6H7.js"><script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-XKQTNOXB.js" type="module"></script></body>
 </html>
+`;
