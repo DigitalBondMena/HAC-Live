@@ -1,3 +1,0 @@
-import { createRequire } from 'node:module';
-globalThis['require'] ??= createRequire(import.meta.url);
-import{d as a,e as b,f as c,g as d,h as e,i as f,j as g,k as h,l as i,m as j,n as k,o as l,p as m,q as n}from"./chunk-PHINIWAO.mjs";import"./chunk-N232G5XG.mjs";export{m as AngularAppEngine,d as PrerenderFallback,c as RenderMode,n as createRequestHandler,e as provideServerRoutesConfig,f as provideServerRouting,g as withAppShell,j as \u0275InlineCriticalCssProcessor,l as \u0275destroyAngularServerApp,i as \u0275extractRoutesAndCreateRouteTree,k as \u0275getOrCreateAngularServerApp,h as \u0275getRoutesFromAngularRouterConfig,b as \u0275setAngularAppEngineManifest,a as \u0275setAngularAppManifest};
