@@ -11,4 +11,4 @@ Disallow: /*/profile
 Disallow: /*/profile/*
 
 # Sitemap
-Sitemap: https://iridescent-frangipane-90a1bc.netlify.app/sitemap.xml
+Sitemap: https://haccosmetics.com/sitemap.xml
