@@ -6,49 +6,49 @@
 
   <!-- Arabic Routes -->
   <url>
-    <loc>https://hayatalafkar.com/ar</loc>
+    <loc>https://mshmohm.com/ar</loc>
     <lastmod>2023-06-08T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://hayatalafkar.com/ar/home</loc>
+    <loc>https://mshmohm.com/ar/home</loc>
     <lastmod>2023-06-08T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://hayatalafkar.com/ar/blog</loc>
+    <loc>https://mshmohm.com/ar/blog</loc>
     <lastmod>2023-06-08T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hayatalafkar.com/ar/shopping</loc>
+    <loc>https://mshmohm.com/ar/shopping</loc>
     <lastmod>2023-06-08T12:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://hayatalafkar.com/ar/about-us</loc>
+    <loc>https://mshmohm.com/ar/about-us</loc>
     <lastmod>2023-06-08T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hayatalafkar.com/ar/contact-us</loc>
+    <loc>https://mshmohm.com/ar/contact-us</loc>
     <lastmod>2023-06-08T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hayatalafkar.com/ar/cart</loc>
+    <loc>https://mshmohm.com/ar/cart</loc>
     <lastmod>2023-06-08T12:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hayatalafkar.com/ar/wishlist</loc>
+    <loc>https://mshmohm.com/ar/wishlist</loc>
     <lastmod>2023-06-08T12:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.6</priority>
@@ -56,49 +56,49 @@
 
   <!-- English Routes -->
   <url>
-    <loc>https://hayatalafkar.com/en</loc>
+    <loc>https://mshmohm.com/en</loc>
     <lastmod>2023-06-08T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://hayatalafkar.com/en/home</loc>
+    <loc>https://mshmohm.com/en/home</loc>
     <lastmod>2023-06-08T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://hayatalafkar.com/en/blog</loc>
+    <loc>https://mshmohm.com/en/blog</loc>
     <lastmod>2023-06-08T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hayatalafkar.com/en/shopping</loc>
+    <loc>https://mshmohm.com/en/shopping</loc>
     <lastmod>2023-06-08T12:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://hayatalafkar.com/en/about-us</loc>
+    <loc>https://mshmohm.com/en/about-us</loc>
     <lastmod>2023-06-08T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hayatalafkar.com/en/contact-us</loc>
+    <loc>https://mshmohm.com/en/contact-us</loc>
     <lastmod>2023-06-08T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hayatalafkar.com/en/cart</loc>
+    <loc>https://mshmohm.com/en/cart</loc>
     <lastmod>2023-06-08T12:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hayatalafkar.com/en/wishlist</loc>
+    <loc>https://mshmohm.com/en/wishlist</loc>
     <lastmod>2023-06-08T12:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.6</priority>
