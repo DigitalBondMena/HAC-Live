@@ -11,4 +11,4 @@ Disallow: /*/profile
 Disallow: /*/profile/*
 
 # Sitemap
-Sitemap: https://haccosmetics.com/sitemap.xml
+Sitemap: https://hac-eco.netlify.app/sitemap.xml
