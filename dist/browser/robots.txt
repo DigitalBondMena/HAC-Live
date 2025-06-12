@@ -11,4 +11,4 @@ Disallow: /*/profile
 Disallow: /*/profile/*
 
 # Sitemap
-Sitemap: https://mshmohm.com/sitemap.xml
+Sitemap: https://mshmohm.com//sitemap.xml
