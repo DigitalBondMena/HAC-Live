@@ -1,2 +1,0 @@
-import './polyfills.server.mjs';
-import{T as c,f as t}from"./chunk-YAVY777B.mjs";var a=class r{searchToggleSubject=new t;searchToggle$=this.searchToggleSubject.asObservable();searchQuerySubject=new t;searchQuery$=this.searchQuerySubject.asObservable();toggleSearch(e){this.searchToggleSubject.next(e)}updateSearchQuery(e){this.searchQuerySubject.next(e)}static \u0275fac=function(o){return new(o||r)};static \u0275prov=c({token:r,factory:r.\u0275fac,providedIn:"root"})};export{a};
