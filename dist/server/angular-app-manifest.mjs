@@ -238,8 +238,8 @@ export default {
 ],
   entryPointToBrowserMapping: undefined,
   assets: {
-    'index.csr.html': {size: 42908, hash: '931acedfcb97934cc2d5603b707fbf5b5557a3dde2180120d13b3bf4dd5b14dd', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
-    'index.server.html': {size: 3841, hash: 'cc3e352a47912e0ede8ac9d0954cf64c7c209cc798af7b864d1b59642dea521d', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
+    'index.csr.html': {size: 43005, hash: 'e6b6e82b6640e6721bc6a053279721d49db80e92c8caed53190ef5adc34bcbf1', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
+    'index.server.html': {size: 3939, hash: 'e847454971942f16a06c58ceb043e5e7f44780521318534fb2c1e891abf21c5b', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
     'styles-VQDIA34F.css': {size: 234343, hash: 'bIicCRQTBS4', text: () => import('./assets-chunks/styles-VQDIA34F_css.mjs').then(m => m.default)}
   },
 };
