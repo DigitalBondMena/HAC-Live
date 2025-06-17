@@ -3,28 +3,28 @@ export default `<!DOCTYPE html>
   <head>
     <meta charset="utf-8"/>
     <title>HAC</title>
-    <link rel="canonical" href="https://haccosmetics.com/ar/"/>
+    <link rel="canonical" href="https://hac-eco.netlify.app/ar/"/>
     <base href="/"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="description" content="HAC - Your trusted source for exceptional products and services"/>
     <!-- Open Graph to help social media platforms display your content correctly -->
     <meta property="og:type" content="website"/>
-    <meta property="og:url" content="https://haccosmetics.com/"/>
+    <meta property="og:url" content="https://hac-eco.netlify.app/"/>
     <meta property="og:title" content="HAC"/>
     <meta property="og:description" content="HAC - Your trusted source for exceptional products and services"/>
-    <meta property="og:image" content="https://haccosmetics.com/logo.jpg"/>
+    <meta property="og:image" content="https://hac-eco.netlify.app/logo.jpg"/>
     <meta property="og:locale" content="ar"/>
     <meta property="og:locale:alternate" content="en"/>
     <meta property="og:site_name" content="HAC"/>
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:url" content="https://haccosmetics.com/"/>
+    <meta name="twitter:url" content="https://hac-eco.netlify.app/"/>
     <meta name="twitter:title" content="HAC"/>
     <meta name="twitter:description" content="HAC - Your trusted source for exceptional products and services"/>
-    <meta property="twitter:site_name" content="HAC"/>
+    <!-- <meta property="twitter:site_name" content="HAC" /> -->
 
-    <meta name="twitter:image" content="https://haccosmetics.com/logo.jpg"/>
+    <!-- <meta name="twitter:image" content="https://hac-eco.netlify.app/logo.jpg" /> -->
 
     <!-- These help platforms like Facebook load your image faster and display it correctly. -->
     <meta property="og:image:width" content="1200"/>
@@ -33,26 +33,26 @@ export default `<!DOCTYPE html>
     <link rel="icon" href="favicon.ico"/>
 
     <!-- Standard favicon -->
-    <link rel="icon" type="image/png" sizes="32x32" href="https://haccosmetics.com/favicon-32x32.png"/>
-    <link rel="icon" type="image/png" sizes="16x16" href="https://haccosmetics.com/favicon-16x16.png"/>
+    <link rel="icon" type="image/png" sizes="32x32" href="https://hac-eco.netlify.app/favicon-32x32.png"/>
+    <link rel="icon" type="image/png" sizes="16x16" href="https://hac-eco.netlify.app/favicon-16x16.png"/>
 
     <!-- Shortcut icon (backward compatibility) -->
-    <link rel="shortcut icon" href="https://haccosmetics.com/favicon.ico"/>
+    <link rel="shortcut icon" href="https://hac-eco.netlify.app/favicon.ico"/>
 
     <!-- Apple Touch Icon (iOS home screen) -->
-    <link rel="apple-touch-icon" sizes="180x180" href="https://haccosmetics.com/apple-touch-icon.png"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="https://hac-eco.netlify.app/apple-touch-icon.png"/>
 
     <!-- Android / Windows Tile Color -->
     <meta name="theme-color" content="#ffffff"/>
     <meta name="msapplication-TileColor" content="#ffffff"/>
-    <meta name="msapplication-TileImage" content="https://haccosmetics.com/favicon.ico"/>
+    <meta name="msapplication-TileImage" content="https://hac-eco.netlify.app/favicon.ico"/>
 
     <!-- Safari Pinned Tab (macOS) -->
-    <link rel="mask-icon" href="https://haccosmetics.com/favicon.ico" color="#5bbad5"/>
+    <link rel="mask-icon" href="https://hac-eco.netlify.app/favicon.ico" color="#5bbad5"/>
   <link rel="stylesheet" href="styles-VQDIA34F.css"></head>
   <body><script type="text/javascript" id="ng-event-dispatch-contract">(()=>{function p(t,n,r,o,e,i,f,m){return{eventType:t,event:n,targetElement:r,eic:o,timeStamp:e,eia:i,eirp:f,eiack:m}}function u(t){let n=[],r=e=>{n.push(e)};return{c:t,q:n,et:[],etc:[],d:r,h:e=>{r(p(e.type,e,e.target,t,Date.now()))}}}function s(t,n,r){for(let o=0;o<n.length;o++){let e=n[o];(r?t.etc:t.et).push(e),t.c.addEventListener(e,t.h,r)}}function c(t,n,r,o,e=window){let i=u(t);e._ejsas||(e._ejsas={}),e._ejsas[n]=i,s(i,r),s(i,o,!0)}window.__jsaction_bootstrap=c;})();
 </script>
     <app-root></app-root>
-  <link rel="modulepreload" href="chunk-CAWKRA22.js"><link rel="modulepreload" href="chunk-LX6HB4B4.js"><link rel="modulepreload" href="chunk-AD35MS42.js"><link rel="modulepreload" href="chunk-LSU73Y2J.js"><link rel="modulepreload" href="chunk-QJQKHYAI.js"><link rel="modulepreload" href="chunk-EKQX75D2.js"><link rel="modulepreload" href="chunk-4OK5BLJZ.js"><link rel="modulepreload" href="chunk-S7VUZIXW.js"><link rel="modulepreload" href="chunk-W2LJ2ZLD.js"><link rel="modulepreload" href="chunk-SKDDIVFS.js"><script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-5CDS4IGU.js" type="module"></script></body>
+  <link rel="modulepreload" href="chunk-CAWKRA22.js"><link rel="modulepreload" href="chunk-LX6HB4B4.js"><link rel="modulepreload" href="chunk-Z2WD4PVM.js"><link rel="modulepreload" href="chunk-LSU73Y2J.js"><link rel="modulepreload" href="chunk-QJQKHYAI.js"><link rel="modulepreload" href="chunk-EKQX75D2.js"><link rel="modulepreload" href="chunk-4OK5BLJZ.js"><link rel="modulepreload" href="chunk-S7VUZIXW.js"><link rel="modulepreload" href="chunk-W2LJ2ZLD.js"><link rel="modulepreload" href="chunk-SKDDIVFS.js"><script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-ANB4BMZP.js" type="module"></script></body>
 </html>
 `;
