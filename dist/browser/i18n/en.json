@@ -864,8 +864,8 @@
   "page": "Page",
   "pages": {
     "about": {
-      "description": "Learn more about our mission and vision in beauty and wellness",
-      "title": "About Us | HAC"
+      "description": "HAK ECO is a trusted platform offering expert-backed content in skincare and aesthetic medicine. Our mission is to empower you with scientific, safe ",
+      "title": "About Us | ECO Trusted Skincare & Aesthetic Knowledge"
     },
     "auth": {
       "login": {
@@ -892,8 +892,8 @@
       "title": "Blog Details | HAC"
     },
     "blogs": {
-      "description": "Latest news and articles about beauty, skincare, and wellness",
-      "title": "Blog & Articles | HAC"
+      "description": "Explore expert-written articles on skincare, aesthetic treatments, and active ingredients. Clear, science-based content to help you care for your skin",
+      "title": "HAK Articles | Your Guide to Skincare & Aesthetic Science"
     },
     "cart": {
       "description": "View and manage your shopping cart items",
@@ -918,12 +918,12 @@
       }
     },
     "contact": {
-      "description": "Get in touch with us for any inquiries or support",
-      "title": "Contact Us | HAC"
+      "description": "Have a question or need support? Get in touch with the HAK team—we’re here to help with fast friendly and professional assistance.",
+      "title": "Contact Us | HAK "
     },
     "home": {
-      "description": "Welcome to HAC - Your ultimate destination for beauty and cosmetics",
-      "title": "Home | HAC"
+      "description": "Explore HAK ’s advanced skincare solutions powered by medical technology. Targeting all skin types, our products help rejuvenate, brighten",
+      "title": "HAK | High-Performance Skincare Backed by Medical Technology"
     },
     "privacy": {
       "description": "Read our privacy policy and data protection guidelines",
@@ -956,8 +956,8 @@
       }
     },
     "shopping": {
-      "description": "Browse our collection of beauty and cosmetic products",
-      "title": "Shop | HAC"
+      "description": "Browse a curated selection of HAK products designed for safety, effectiveness, and supported by advanced medical technology for all skin types.",
+      "title": "Shop best Products by HAK | Effective & Safe Skincare"
     },
     "wishlist": {
       "description": "View and manage your favorite products",
