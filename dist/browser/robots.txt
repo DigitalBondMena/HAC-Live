@@ -10,4 +10,4 @@ Disallow: /search/
 Disallow: /wishlist/
 Disallow: /user/
 
-Sitemap: https://hac-eco.netlify.app/sitemap.xml
+Sitemap: https://haccosmetics.com/sitemap.xml
