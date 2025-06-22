@@ -1,216 +1,118 @@
-<?xml version='1.0' encoding='utf-8'?>
-<urlset xmlns:ns1="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"><ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/home</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>1.00</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/shopping</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/about-us</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/brightening-foam</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/pure-renewing-mask</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/hydra-vital-factor-k-50-ml</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/melan-tran3x-gel-cream</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/cosmelan-2-30-gm</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/dermamelan-treatment-30-gm</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/dermamelan-homepack</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/melan-recovery</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/hydragel-intimate</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/hydracream-fusion</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/purifiying-mousse</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/hydratonic-mist</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/blemiderm-resurfacing-gel</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/blemiderm-treatment</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/ha-densimatrix</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/hydra-vital-mask</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/hydra-vital-light</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/cosmelan-home-pack</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:48:39+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-
-
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/home</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>1.00</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/shopping</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/about-us</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/braytnng-fom</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/byor-rynyong-mask</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/hydra-faytal-faktor-kyh-50-ml</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/mylan-tranks-gyl-krym</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/kozmylan-2-30-gram</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/dyrmamylan-trytmnt-30-gram</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/dyrmamylan-hom-bak</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/mylan-rykfr</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/hydragyl-antymyt</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/hydra-krym-fyoshn</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/byoryfyng-mos</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/hydra-tonyk-myst</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/blymydyrm-rysrfsng-gyl</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/blymydyrm-trytmnt</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/atsh-ayh-dnsymatryks</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/hydra-faytal-mask</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/hydra-faytal-layt</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/kozmylan-hom-bak</ns1:loc>
-  <ns1:lastmod>2025-06-16T10:49:22+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-
-
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://haccosmetics.com/ar/home</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/home"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/home"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/shopping</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/shopping"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/shopping"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/about-us</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/about-us"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/about-us"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/braytnng-fom</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/braytnng-fom"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/brightening-foam"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/byor-rynyong-mask</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/byor-rynyong-mask"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/pure-renewing-mask"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/dyrmamylan-antymyt-bak</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/dyrmamylan-antymyt-bak"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/dermamelan-intimate-pack"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/dyrmamylan-bak</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/dyrmamylan-bak"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/dermamelan-pack"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/kozmylan-bak</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/kozmylan-bak"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/cosmelan-pack"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/hydra-faytal-faktor-kyh-50-ml</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/hydra-faytal-faktor-kyh-50-ml"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/hydra-vital-factor-k-50-ml"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/mylan-tranks-gyl-krym</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/mylan-tranks-gyl-krym"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/melan-tran3x-gel-cream"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/kozmylan-2-30-gram</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/kozmylan-2-30-gram"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/cosmelan-2-30-gm"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/dyrmamylan-trytmnt-30-gram</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/dyrmamylan-trytmnt-30-gram"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/dermamelan-treatment-30-gm"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/dyrmamylan-hom-bak</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/dyrmamylan-hom-bak"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/dermamelan-homepack"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/contact-us</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/contact-us"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/contact-us"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/byoryfyng-mos</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/byoryfyng-mos"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/purifiying-mousse"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/hydra-tonyk-myst</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/hydra-tonyk-myst"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/hydratonic-mist"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/blymydyrm-rysrfsng-gyl</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/blymydyrm-rysrfsng-gyl"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/blemiderm-resurfacing-gel"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/blymydyrm-trytmnt</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/blymydyrm-trytmnt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/blemiderm-treatment"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/dyrmamylan-antymyt-gyl</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/dyrmamylan-antymyt-gyl"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/dermamelan-intimate-gel"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/kozmylan-hom-bak</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/kozmylan-hom-bak"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/cosmelan-home-pack"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/atsh-ayh-dnsymatryks</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/atsh-ayh-dnsymatryks"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/ha-densimatrix"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/hydra-faytal-mask</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/hydra-faytal-mask"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/hydra-vital-mask"/>
+  </url>
+  <url>
+    <loc>https://haccosmetics.com/ar/product-details/hydra-faytal-layt</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://haccosmetics.com/ar/product-details/hydra-faytal-layt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://haccosmetics.com/en/product-details/hydra-vital-light"/>
+  </url>
 </urlset>
