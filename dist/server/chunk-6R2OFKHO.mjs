@@ -1,0 +1,3 @@
+import './polyfills.server.mjs';
+import{Mb as i,Nb as a,Xa as n,fc as r,hc as s,jb as o}from"./chunk-SAH3D642.mjs";var p=class t{sectionName="";static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-section-heading"]],inputs:{sectionName:"sectionName"},decls:2,vars:1,consts:[[1,"ltr:left-[15px]","rtl:right-[15px]","heading","text-subtitle-size","text-black","font-semibold","mb-[35px]","relative","before:content-['']","before:absolute","before:bg-[#a48374]","before:h-[30px]","before:w-[5px]","before:top-1/2","before:-translate-y-1/2","ltr:before:left-[-15px]","rtl:before:right-[-15px]"]],template:function(e,l){e&1&&(i(0,"h3",0),r(1),a()),e&2&&(n(),s(" ",l.sectionName,`
+`))},encapsulation:2})};export{p as a};
