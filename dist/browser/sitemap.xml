@@ -1,70 +1,267 @@
 <?xml version='1.0' encoding='utf-8'?>
-<urlset xmlns:ns1="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-<!-- HOME PAGES -->
-<ns1:url>
+<urlset xmlns:ns1="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"><ns1:url>
   <ns1:loc>https://haccosmetics.com/ar/home</ns1:loc>
   <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
   <ns1:priority>1.00</ns1:priority>
 </ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/home</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
-  <ns1:priority>1.00</ns1:priority>
-</ns1:url>
-
-<!-- BLOGS PAGES -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/blogs</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:39:55+00:00</ns1:lastmod>
-  <ns1:priority>1.00</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/blogs</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
-  <ns1:priority>1.00</ns1:priority>
-</ns1:url>
-
-<!-- SHOPPING PAGES -->
 <ns1:url>
   <ns1:loc>https://haccosmetics.com/ar/shopping</ns1:loc>
   <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
   <ns1:priority>0.80</ns1:priority>
 </ns1:url>
 <ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/shopping</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-
-<!-- ABOUT US PAGES -->
-<ns1:url>
   <ns1:loc>https://haccosmetics.com/ar/about-us</ns1:loc>
   <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
   <ns1:priority>0.80</ns1:priority>
 </ns1:url>
 <ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/about-us</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/aard-11-mylan-tranks-gyl-krym</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
   <ns1:priority>0.80</ns1:priority>
 </ns1:url>
-
-<!-- CONTACT US PAGES -->
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/aard-2-bsaar-oahd-dyrmamylan-trytmnt-30-gram</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/braytnng-fom</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/byor-rynyong-mask</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/dyrmamylan-antymyt-bak</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/dyrmamylan-bak</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/kozmylan-bak</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/hydra-faytal-faktor-kyh-50-ml</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/mylan-tranks-gyl-krym</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/kozmylan-2-30-gram</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/dyrmamylan-hom-bak</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/shopping?page=0</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/shopping?page=2</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/shopping?page=3</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/shopping?page=4</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
 <ns1:url>
   <ns1:loc>https://haccosmetics.com/ar/contact-us</ns1:loc>
   <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
   <ns1:priority>0.64</ns1:priority>
 </ns1:url>
 <ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/contact-us</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/kozmylan-hom-bak</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
   <ns1:priority>0.64</ns1:priority>
 </ns1:url>
-
-<!-- BRIGHTENING FOAM PRODUCT -->
 <ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/braytnng-fom</ns1:loc>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/dyrmamylan-trytmnt-30-gram</ns1:loc>
   <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/hydra-krym-fyoshn</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/byoryfyng-mos</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/hydra-tonyk-myst</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/blymydyrm-rysrfsng-gyl</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/blymydyrm-trytmnt</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/dyrmamylan-antymyt-gyl</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/atsh-ayh-dnsymatryks</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/hydra-faytal-mask</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/product-details/hydra-faytal-layt</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/blogs</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:39:55+00:00</ns1:lastmod>
+  <ns1:priority>1.00</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/blog/%D9%85%D9%82%D8%B4%D8%B1-%D9%84%D9%84%D8%A8%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%B3%D8%A9-%D8%B3%D8%B1-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%A7%D8%B2%D9%86%D8%A9</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:39:55+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/blog/%D8%B9%D9%84%D8%A7%D8%AC-%D8%AD%D8%A8-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%84%D9%84%D8%A8%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%87%D9%86%D9%8A%D8%A9</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:39:55+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/blog/%D8%A7%D8%AD%D8%B3%D9%86-%D9%88%D8%A7%D9%82%D9%8A-%D8%B4%D9%85%D8%B3-%D8%B6%D8%AF-%D8%A7%D9%84%D8%AA%D8%B5%D8%A8%D8%BA%D8%A7%D8%AA</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:39:55+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/blog/%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D8%A7%D8%AD%D9%85%D8%B1%D8%A7%D8%B1</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:39:55+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/blog/%D8%A7%D9%81%D8%B6%D9%84-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D9%84%D8%AA%D8%B1%D8%B7%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%B3%D9%87</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:39:55+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/blog/%D8%AC%D9%8A%D9%84-%D8%B7%D8%A8%D9%8A</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:39:55+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/blog/%D9%83%D8%B1%D9%8A%D9%85-%D8%AA%D9%81%D8%AA%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%B3%D8%A9</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:39:55+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/blog/%D8%B9%D9%84%D8%A7%D8%AC-%D8%AA%D8%B5%D8%A8%D8%BA%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%AC%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B2%D9%84</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:39:55+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/blog/%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D8%AA%D8%B5%D8%A8%D8%BA-%D8%A7%D9%84%D8%AC%D9%84%D8%AF</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:39:55+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/ar/blog/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%AA%D8%B5%D8%A8%D8%BA%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%AC%D9%87</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:39:55+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/blogs</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
+  <ns1:priority>1.00</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/blog/the-ideal-exfoliator-for-sensitive-combination-skin</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/blog/acne-treatment-for-oily-skin</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/blog/best-sunscreen-for-hyperpigmentation</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/blog/redness-treatment</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/blog/the-best-way-to-moisturize-the-intimate-area</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/blog/medical-gel</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/blog/intimate-area-whitening-cream</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/blog/treating-facial-pigmentation-at-home</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/blog/causes-of-skin-pigmentation</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/product-details/offer-11-melan-tran3x-gel-cream</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/product-details/offer-1-get-1-free-dermamelan-treatment-30-gm</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
   <ns1:priority>0.80</ns1:priority>
 </ns1:url>
 <ns1:url>
@@ -72,107 +269,14 @@
   <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
   <ns1:priority>0.80</ns1:priority>
 </ns1:url>
-
-<!-- PURE RENEWING MASK -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/byor-rynyong-mask</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
 <ns1:url>
   <ns1:loc>https://haccosmetics.com/en/product-details/pure-renewing-mask</ns1:loc>
   <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
   <ns1:priority>0.80</ns1:priority>
 </ns1:url>
-
-<!-- DERMAMELAN INTIMATE PACK -->
 <ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/dyrmamylan-antymyt-bak</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/dermamelan-intimate-pack</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-
-<!-- DERMAMELAN PACK -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/dyrmamylan-bak</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/dermamelan-pack</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-
-<!-- COSMELAN PACK -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/kozmylan-bak</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/cosmelan-pack</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-
-<!-- HYDRA VITAL FACTOR K 50ML -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/hydra-faytal-faktor-kyh-50-ml</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/hydra-vital-factor-k-50-ml</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-
-<!-- MELAN TRAN3X GEL CREAM -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/mylan-tranks-gyl-krym</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/melan-tran3x-gel-cream</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-
-<!-- COSMELAN 2 30GM -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/kozmylan-2-30-gram</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/cosmelan-2-30-gm</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-
-<!-- DERMAMELAN HOME PACK -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/dyrmamylan-hom-bak</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/dermamelan-homepack</ns1:loc>
+  <ns1:loc>https://haccosmetics.com/en/blog/types-of-facial-pigmentation</ns1:loc>
   <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-
-<!-- COSMELAN HOME PACK -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/kozmylan-hom-bak</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
   <ns1:priority>0.64</ns1:priority>
 </ns1:url>
 <ns1:url>
@@ -180,11 +284,9 @@
   <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
   <ns1:priority>0.64</ns1:priority>
 </ns1:url>
-
-<!-- DERMAMELAN TREATMENT 30GM -->
 <ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/dyrmamylan-trytmnt-30-gram</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:loc>https://haccosmetics.com/en/product-details/dermamelan-homepack</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
   <ns1:priority>0.64</ns1:priority>
 </ns1:url>
 <ns1:url>
@@ -192,23 +294,9 @@
   <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
   <ns1:priority>0.64</ns1:priority>
 </ns1:url>
-
-<!-- HYDRACREAM FUSION -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/hydra-krym-fyoshn</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
 <ns1:url>
   <ns1:loc>https://haccosmetics.com/en/product-details/hydracream-fusion</ns1:loc>
   <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-
-<!-- PURIFYING MOUSSE -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/byoryfyng-mos</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
   <ns1:priority>0.64</ns1:priority>
 </ns1:url>
 <ns1:url>
@@ -216,23 +304,9 @@
   <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
   <ns1:priority>0.64</ns1:priority>
 </ns1:url>
-
-<!-- HYDRATONIC MIST -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/hydra-tonyk-myst</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
 <ns1:url>
   <ns1:loc>https://haccosmetics.com/en/product-details/hydratonic-mist</ns1:loc>
   <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-
-<!-- BLEMIDERM RESURFACING GEL -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/blymydyrm-rysrfsng-gyl</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
   <ns1:priority>0.64</ns1:priority>
 </ns1:url>
 <ns1:url>
@@ -240,23 +314,79 @@
   <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
   <ns1:priority>0.64</ns1:priority>
 </ns1:url>
-
-<!-- BLEMIDERM TREATMENT -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/blymydyrm-trytmnt</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
 <ns1:url>
   <ns1:loc>https://haccosmetics.com/en/product-details/blemiderm-treatment</ns1:loc>
   <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
   <ns1:priority>0.64</ns1:priority>
 </ns1:url>
-
-<!-- DERMAMELAN INTIMATE GEL -->
 <ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/dyrmamylan-antymyt-gyl</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
+  <ns1:loc>https://haccosmetics.com/en/home</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
+  <ns1:priority>1.00</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/shopping</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/about-us</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/product-details/dermamelan-intimate-pack</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/product-details/dermamelan-pack</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/product-details/cosmelan-pack</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/product-details/hydra-vital-factor-k-50-ml</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/product-details/melan-tran3x-gel-cream</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/product-details/cosmelan-2-30-gm</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
+  <ns1:priority>0.80</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/shopping?page=0</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/shopping?page=2</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/shopping?page=3</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/shopping?page=4</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
+  <ns1:priority>0.64</ns1:priority>
+</ns1:url>
+<ns1:url>
+  <ns1:loc>https://haccosmetics.com/en/contact-us</ns1:loc>
+  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
   <ns1:priority>0.64</ns1:priority>
 </ns1:url>
 <ns1:url>
@@ -264,23 +394,9 @@
   <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
   <ns1:priority>0.64</ns1:priority>
 </ns1:url>
-
-<!-- HA DENSIMATRIX -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/atsh-ayh-dnsymatryks</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
 <ns1:url>
   <ns1:loc>https://haccosmetics.com/en/product-details/ha-densimatrix</ns1:loc>
   <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-
-<!-- HYDRA VITAL MASK -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/hydra-faytal-mask</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
   <ns1:priority>0.64</ns1:priority>
 </ns1:url>
 <ns1:url>
@@ -288,20 +404,11 @@
   <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
   <ns1:priority>0.64</ns1:priority>
 </ns1:url>
-
-<!-- HYDRA VITAL LIGHT -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/hydra-faytal-layt</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
 <ns1:url>
   <ns1:loc>https://haccosmetics.com/en/product-details/hydra-vital-light</ns1:loc>
   <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
   <ns1:priority>0.64</ns1:priority>
 </ns1:url>
-
-<!-- MESOPROTECH MELAN130 PIGMENT CONTROL -->
 <ns1:url>
   <ns1:loc>https://haccosmetics.com/ar/product-details/myzobrotyk-mylan-130-bygmnt-kntrol</ns1:loc>
   <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
@@ -312,119 +419,9 @@
   <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
   <ns1:priority>0.64</ns1:priority>
 </ns1:url>
-
-<!-- SHOPPING PAGINATION -->
 <ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/shopping?page=0</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
+<ns1:loc>https://haccosmetics.com/en/blogs</ns1:loc>
+<ns1:lastmod>2025-06-23T09:39:55+00:00</ns1:lastmod>
+<ns1:priority>1.00</ns1:priority>
 </ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/shopping?page=0</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/shopping?page=2</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/shopping?page=2</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/shopping?page=3</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/shopping?page=3</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/shopping?page=4</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/shopping?page=4</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:38:26+00:00</ns1:lastmod>
-  <ns1:priority>0.64</ns1:priority>
-</ns1:url>
-
-<!-- OFFER PAGES (Only in English) -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/aard-11-mylan-tranks-gyl-krym</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/offer-11-melan-tran3x-gel-cream</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/product-details/aard-2-bsaar-oahd-dyrmamylan-trytmnt-30-gram</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:36:44+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/product-details/offer-1-get-1-free-dermamelan-treatment-30-gm</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-
-<!-- BLOG POSTS GROUPED -->
-<!-- Exfoliator Blog -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/blog/%D9%85%D9%82%D8%B4%D8%B1-%D9%84%D9%84%D8%A8%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%B3%D8%A9-%D8%B3%D8%B1-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%A7%D8%B2%D9%86%D8%A9</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:39:55+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/blog/the-ideal-exfoliator-for-sensitive-combination-skin</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-
-<!-- Acne Treatment Blog -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/blog/%D8%B9%D9%84%D8%A7%D8%AC-%D8%AD%D8%A8-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%84%D9%84%D8%A8%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%87%D9%86%D9%8A%D8%A9</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:39:55+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/blog/acne-treatment-for-oily-skin</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-
-<!-- Best Sunscreen Blog -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/blog/%D8%A7%D8%AD%D8%B3%D9%86-%D9%88%D8%A7%D9%82%D9%8A-%D8%B4%D9%85%D8%B3-%D8%B6%D8%AF-%D8%A7%D9%84%D8%AA%D8%B5%D8%A8%D8%BA%D8%A7%D8%AA</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:39:55+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/blog/best-sunscreen-for-hyperpigmentation</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-
-<!-- Redness Treatment Blog -->
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/ar/blog/%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D8%A7%D8%AD%D9%85%D8%B1%D8%A7%D8%B1</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:39:55+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
-</ns1:url>
-<ns1:url>
-  <ns1:loc>https://haccosmetics.com/en/blog/redness-treatment</ns1:loc>
-  <ns1:lastmod>2025-06-23T09:43:33+00:00</ns1:lastmod>
-  <ns1:priority>0.80</ns1:priority>
+</urlset>
