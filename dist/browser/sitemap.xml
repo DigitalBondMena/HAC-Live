@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-  <loc>https://haccosmetics.com/ar/home</loc>
+  <loc>https://haccosmetics.com/ar</loc>
   <lastmod>2025-06-23T09:36:44+00:00</lastmod>
   <priority>1.00</priority>
 </url>
@@ -320,7 +320,7 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://haccosmetics.com/en/home</loc>
+  <loc>https://haccosmetics.com/en</loc>
   <lastmod>2025-06-23T09:38:26+00:00</lastmod>
   <priority>1.00</priority>
 </url>
