@@ -1,23 +1,13 @@
 export default `<!DOCTYPE html>
 <html lang="ar" dir="rtl">
   <head>
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7YSN4R5DJ1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-
-      gtag("config", "G-7YSN4R5DJ1");
-    </script>
-
     <meta charset="utf-8"/>
     <title>HAC</title>
     <meta name="google-site-verification" content="MB5P51CU7W3g2K3w6uJETtdy3QZzU2XGjMGEdRcZHJ8"/>
     <link rel="canonical" href="https://haccosmetics.com/ar/"/>
     <base href="/"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
     <meta name="description" content="HAC - Your trusted source for exceptional products and services"/>
     <!-- Open Graph to help social media platforms display your content correctly -->
     <meta property="og:type" content="website"/>
