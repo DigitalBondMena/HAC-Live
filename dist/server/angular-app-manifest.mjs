@@ -80,7 +80,7 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-3LLDUFU3.js"
+      "chunk-7WOK54ZW.js"
     ],
     "route": "/*/wishlist"
   },
@@ -102,14 +102,14 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-NT6FOTJI.js"
+      "chunk-YI2X5OAA.js"
     ],
     "route": "/*/product-details/*"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-VCRHLVQC.js",
+      "chunk-TRG6RRPB.js",
       "chunk-YVRKQXA7.js",
       "chunk-N563L273.js",
       "chunk-ACQOO2SM.js"
@@ -128,7 +128,7 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-FIVWBC7T.js",
+      "chunk-WCDDCH7B.js",
       "chunk-YVRKQXA7.js"
     ],
     "route": "/*/cart"
@@ -186,7 +186,7 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-F2FJIVP7.js",
+      "chunk-YOPMOSV5.js",
       "chunk-YVRKQXA7.js"
     ],
     "redirectTo": "/*/checkout/checkout-address",
@@ -195,7 +195,7 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-F2FJIVP7.js",
+      "chunk-YOPMOSV5.js",
       "chunk-YVRKQXA7.js"
     ],
     "route": "/*/checkout/checkout-address"
@@ -203,7 +203,7 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-F2FJIVP7.js",
+      "chunk-YOPMOSV5.js",
       "chunk-YVRKQXA7.js"
     ],
     "route": "/*/checkout/payment"
@@ -211,7 +211,7 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-F2FJIVP7.js",
+      "chunk-YOPMOSV5.js",
       "chunk-YVRKQXA7.js"
     ],
     "route": "/*/checkout/track-order"
@@ -219,7 +219,7 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-F2FJIVP7.js",
+      "chunk-YOPMOSV5.js",
       "chunk-YVRKQXA7.js"
     ],
     "route": "/*/checkout/track-order/*"
@@ -232,8 +232,8 @@ export default {
 ],
   entryPointToBrowserMapping: undefined,
   assets: {
-    'index.csr.html': {size: 43716, hash: '4bc3dc941b68198b9eeb5a33b4e12e84cfae6e6301e5b0704952872a61b7801d', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
-    'index.server.html': {size: 4651, hash: 'ed7e6478d66ebd2edfce3f2eedb707fcf9c40c107134b6e6e322db9d7895e1eb', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
-    'styles-CYIGOZFY.css': {size: 234869, hash: 'L6iZo4FeJEI', text: () => import('./assets-chunks/styles-CYIGOZFY_css.mjs').then(m => m.default)}
+    'index.csr.html': {size: 43738, hash: 'a8f419f882f05e9402283201e0c3da5a5f2f6feb59ad8500e2aa0bfe1ec9d0d1', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
+    'index.server.html': {size: 4651, hash: '11f587d880279f77f4f740441f55d72d6805a0a91649161415b8ce6732e2ab16', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
+    'styles-WT3TI2BE.css': {size: 235398, hash: 'y7QWUmB2/D8', text: () => import('./assets-chunks/styles-WT3TI2BE_css.mjs').then(m => m.default)}
   },
 };

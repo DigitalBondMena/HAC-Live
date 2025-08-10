@@ -1,2 +1,0 @@
-import './polyfills.server.mjs';
-import{a}from"./chunk-KGF3GQTH.mjs";import"./chunk-N6Y5AEQH.mjs";import"./chunk-7CCKZPSV.mjs";import"./chunk-GRSVKZ3Z.mjs";import"./chunk-TYIRE6MZ.mjs";import"./chunk-SAQVWPEB.mjs";import"./chunk-V53QZKTZ.mjs";import"./chunk-EMFEC2YK.mjs";import"./chunk-XALIVZCS.mjs";import"./chunk-S664764A.mjs";import"./chunk-MASI3ZRX.mjs";import"./chunk-X2SEQXRR.mjs";export{a as RegisterComponent};
