@@ -485,6 +485,9 @@
       "expiry_date_placeholder": "MM/YY",
       "loading_payment": "Loading payment options...",
       "method": "Payment Method",
+      "COD": "An extra 20 {{currency}} will be added when choosing Cash on Delivery",
+      "COD-fees": "+20{{currency}}: Additional fee for Cash on Delivery",
+      "COD-track": "Cash on Delivery Fee",
       "methods": {
         "cash_on_delivery": "Cash on Delivery",
         "credit_card": "Credit Card",

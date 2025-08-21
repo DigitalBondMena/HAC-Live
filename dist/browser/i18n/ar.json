@@ -513,6 +513,10 @@
       "expiry_date_placeholder": "MM/YY",
       "loading_payment": "جاري تحميل خيارات الدفع...",
       "method": "طريقة الدفع",
+      "COD": "سيتم إضافة 20 {{currency}} عند اختيار الدفع عند الاستلام",
+      "COD-fees": " +20 {{currency}} رسوم إضافية للدفع عند الاستلام: ",
+      "COD-track": "رسوم الدفع عند الاستلام",
+
       "methods": {
         "cash_on_delivery": "الدفع عند الاستلام",
         "credit_card": "بطاقة ائتمان",
