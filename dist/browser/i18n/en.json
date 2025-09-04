@@ -300,7 +300,7 @@
               "required": "Location is required"
             },
             "phone": {
-              "pattern": "Please enter a valid phone number",
+              "pattern": "Phone number must be 05XXXXXXXX",
               "required": "Phone number is required"
             },
             "postalCode": {
@@ -465,6 +465,33 @@
       "title": "Shipping Address | HAC",
       "user_info_error": "Error fetching user information",
       "warning_title": "Warning"
+    },
+    "form": {
+      "validation": {
+        "address": {
+          "required": "Address is required"
+        },
+        "city": {
+          "required": "City is required"
+        },
+        "email": {
+          "invalid": "Please enter a valid email",
+          "required": "Email is required"
+        },
+        "first_name": {
+          "required": "First name is required"
+        },
+        "last_name": {
+          "required": "Last name is required"
+        },
+        "location_id": {
+          "required": "Please select a location"
+        },
+        "phone": {
+          "pattern": "Phone number must be 05XXXXXXXX",
+          "required": "Phone number is required"
+        }
+      }
     },
     "header": {
       "subtitle": "Complete your application and fill out all the required information",
@@ -1221,6 +1248,7 @@
     "password-required": "Password is required",
     "phone-format": "Phone must be a valid number",
     "phone-min-length": "Phone number must be at least 9 digits",
+    "phone-pattern-example": "Phone number must be 05XXXXXXXX",
     "phone-required": "Phone is required",
     "your-msg-min-length": "Your message must be at least 10 characters long",
     "your-msg-required": "Your message is required"
