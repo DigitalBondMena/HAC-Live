@@ -302,7 +302,8 @@
               "required": "الموقع مطلوب"
             },
             "phone": {
-              "pattern": "يرجى إدخال رقم هاتف صالح",
+              "pattern": "رقم الهاتف يجب أن يكون 05XXXXXXXX",
+
               "required": "رقم الهاتف مطلوب"
             },
             "postalCode": {
@@ -488,7 +489,7 @@
           "required": "الرجاء اختيار موقع"
         },
         "phone": {
-          "pattern": "الرجاء إدخال رقم هاتف صحيح",
+          "pattern": "رقم الهاتف يجب أن يكون 05XXXXXXXX",
           "required": "رقم الهاتف مطلوب"
         }
       }
@@ -1233,6 +1234,7 @@
     "password-required": "كلمة المرور مطلوبة",
     "phone-format": "رقم الهاتف غير صالح",
     "phone-min-length": "يجب أن يتكون رقم الهاتف من 9 أرقام على الأقل",
+    "phone-pattern-example": "رقم الهاتف يجب أن يكون 05XXXXXXXX",
     "phone-required": "رقم الهاتف مطلوب",
     "your-msg-min-length": "رسالة المستخدم يجب أن تكون أطول من 10 أحرف",
     "your-msg-required": "رسالة المستخدم مطلوبة"
