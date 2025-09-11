@@ -405,7 +405,7 @@
     },
     "cart_cleared": "Cart cleared successfully",
     "description": "View and manage your shopping cart items",
-    "discount_applied_second_item": "🎉 Discount applied! Second item is {{discount}}% off",
+    "discount_applied_second_item": "🎉 Discount applied! Second item is %",
     "full_price_single_item": "Single item at full price",
     "empty": {
       "message": "Looks like you haven't added any items to your cart yet",

@@ -406,7 +406,7 @@
     },
     "cart_cleared": "تم مسح سلة التسوق بنجاح",
     "description": "عرض وإدارة منتجات سلة التسوق الخاصة بك",
-    "discount_applied_second_item": "🎉 تم تطبيق الخصم! القطعة الثانية خصم {{discount}}%",
+    "discount_applied_second_item": "🎉 تم تطبيق الخصم! القطعة الثانية خصم %",
     "full_price_single_item": "قطعة واحدة بالسعر الكامل",
     "empty": {
       "message": "يبدو أنك لم تضف أي عناصر إلى سلة التسوق الخاصة بك حتى الآن",
