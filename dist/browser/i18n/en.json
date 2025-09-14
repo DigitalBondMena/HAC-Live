@@ -405,7 +405,8 @@
     },
     "cart_cleared": "Cart cleared successfully",
     "description": "View and manage your shopping cart items",
-    "discount_applied_second_item": "🎉 Discount applied! Second item is %",
+    "discount_applied_second_item": "🎉 Discount applied! Second item is {{discount}}% off",
+
     "full_price_single_item": "Single item at full price",
     "empty": {
       "message": "Looks like you haven't added any items to your cart yet",
@@ -622,7 +623,34 @@
         "womens-equipment": "Women's Equipment",
         "womens_care": "Women's Care"
       },
-      "title": "Sections"
+      "title": "Quick Links"
+    },
+    "pages_Title": {
+      "articles": {
+        "title": "Articles"
+      },
+      "contact_Us": {
+        "title": "Contact Us"
+      },
+      "home": {
+        "title": "Home"
+      },
+      "products": {
+        "title": "Products"
+      },
+      "shopping_now": {
+        "title": "Shop Now"
+      },
+      "who_we_are": {
+        "title": "about us"
+      },
+      "privacy":{
+        "title":"Privacy Policy"
+      }
+    },
+    "skin":{
+      "title":"Skin Care"
+      
     }
   },
   "form": {

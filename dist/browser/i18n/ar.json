@@ -406,7 +406,8 @@
     },
     "cart_cleared": "تم مسح سلة التسوق بنجاح",
     "description": "عرض وإدارة منتجات سلة التسوق الخاصة بك",
-    "discount_applied_second_item": "🎉 تم تطبيق الخصم! القطعة الثانية خصم %",
+    "discount_applied_second_item": "🎉 تم تطبيق الخصم! القطعة الثانية خصم {{discount}}%",
+
     "full_price_single_item": "قطعة واحدة بالسعر الكامل",
     "empty": {
       "message": "يبدو أنك لم تضف أي عناصر إلى سلة التسوق الخاصة بك حتى الآن",
@@ -618,7 +619,33 @@
         "womens-equipment": "معدات نسائية",
         "womens_care": "العناية بالنساء"
       },
-      "title": "الأقسام"
+      "title": "لينكات سريعه"
+    },
+    "pages_Title": {
+      "articles": {
+        "title": "المقالات"
+      },
+      "contact_Us": {
+        "title": "تواصل معنا"
+      },
+      "home": {
+        "title": "الصفحة الرئيسية"
+      },
+      "products": {
+        "title": "المنتجات"
+      },
+      "shopping_now": {
+        "title": "تسوق الآن"
+      },
+      "who_we_are": {
+        "title": "من نحن"
+      },
+      "privacy":{
+        "title":"سياسة الخصوصية"
+      }
+    },
+    "skin":{
+      "title":"العناية بالبشرة"
     }
   },
   "form": {
