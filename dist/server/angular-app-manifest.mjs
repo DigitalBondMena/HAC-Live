@@ -80,7 +80,7 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-7OLDUIT4.js"
+      "chunk-KCLXZDSK.js"
     ],
     "route": "/*/wishlist"
   },
@@ -91,7 +91,7 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-OYQLYLXP.js"
+      "chunk-OI5AMO44.js"
     ],
     "route": "/*/blog/*"
   },
@@ -102,25 +102,25 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-ZAFMD2L6.js"
+      "chunk-NSRU2L5Z.js"
     ],
     "route": "/*/product-details/*"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-G6VHYTHB.js",
-      "chunk-SWAGWTM5.js",
+      "chunk-GWLOEQYN.js",
+      "chunk-BUVQM3EQ.js",
       "chunk-C7MRQI3E.js",
-      "chunk-DIEMMFDJ.js"
+      "chunk-D75IJRKB.js"
     ],
     "route": "/*/about-us"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-FM2725SG.js",
-      "chunk-SWAGWTM5.js",
+      "chunk-4GBCUFVC.js",
+      "chunk-BUVQM3EQ.js",
       "chunk-C7MRQI3E.js"
     ],
     "route": "/*/contact-us"
@@ -128,8 +128,8 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-MO6YM7IW.js",
-      "chunk-SWAGWTM5.js"
+      "chunk-46QLMW6U.js",
+      "chunk-BUVQM3EQ.js"
     ],
     "route": "/*/cart"
   },
@@ -186,8 +186,8 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-MMSWQW5O.js",
-      "chunk-SWAGWTM5.js"
+      "chunk-MXZ4K6BM.js",
+      "chunk-BUVQM3EQ.js"
     ],
     "redirectTo": "/*/checkout/checkout-address",
     "route": "/*/checkout"
@@ -195,32 +195,32 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-MMSWQW5O.js",
-      "chunk-SWAGWTM5.js"
+      "chunk-MXZ4K6BM.js",
+      "chunk-BUVQM3EQ.js"
     ],
     "route": "/*/checkout/checkout-address"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-MMSWQW5O.js",
-      "chunk-SWAGWTM5.js"
+      "chunk-MXZ4K6BM.js",
+      "chunk-BUVQM3EQ.js"
     ],
     "route": "/*/checkout/payment"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-MMSWQW5O.js",
-      "chunk-SWAGWTM5.js"
+      "chunk-MXZ4K6BM.js",
+      "chunk-BUVQM3EQ.js"
     ],
     "route": "/*/checkout/track-order"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-MMSWQW5O.js",
-      "chunk-SWAGWTM5.js"
+      "chunk-MXZ4K6BM.js",
+      "chunk-BUVQM3EQ.js"
     ],
     "route": "/*/checkout/track-order/*"
   },
@@ -232,8 +232,8 @@ export default {
 ],
   entryPointToBrowserMapping: undefined,
   assets: {
-    'index.csr.html': {size: 43758, hash: 'e7c135ca055c2e64ab080ccdffefbd0f3abc53f2abf1873137fe846dda34ba7e', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
-    'index.server.html': {size: 4651, hash: '678a462a2e28b8d9aca56458c70bfa1d0d21a88a90208b9c1fba08067117fabe', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
-    'styles-MNOPQSBW.css': {size: 234821, hash: '62B/Xjqb78A', text: () => import('./assets-chunks/styles-MNOPQSBW_css.mjs').then(m => m.default)}
+    'index.csr.html': {size: 43758, hash: 'd50aa77c5344ce9df8df50100ec1f163ea9062fa8bcb5d02d7e93f66c58bf994', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
+    'index.server.html': {size: 4651, hash: '2a649919ff88057eef4eb2a80208f193855b867cbc7cdd2a5eec78bcd7585a59', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
+    'styles-TZU5ZL42.css': {size: 234953, hash: '2MVsQ1CMooo', text: () => import('./assets-chunks/styles-TZU5ZL42_css.mjs').then(m => m.default)}
   },
 };

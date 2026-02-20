@@ -1,0 +1,1 @@
+import{a as e,c as i}from"./chunk-RWIVG5D7.js";import{X as t,ba as r}from"./chunk-DE25INL5.js";var a=class o{apiService=r(i);constructor(){}getAboutData(){return console.log("getAboutData"),this.apiService.get(e.STATIC_PAGES.ABOUT_US)}static \u0275fac=function(c){return new(c||o)};static \u0275prov=t({token:o,factory:o.\u0275fac,providedIn:"root"})};export{a};
