@@ -1,80 +1,77 @@
 export default `<!DOCTYPE html>
 <html lang="ar" dir="rtl">
-  <head>
-    <meta charset="utf-8"/>
-    <title>HAC</title>
-    <meta name="google-site-verification" content="MB5P51CU7W3g2K3w6uJETtdy3QZzU2XGjMGEdRcZHJ8"/>
-    <link rel="canonical" href="https://haccosmetics.com/ar/"/>
-    <base href="/"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-    <meta name="description" content="HAC - Your trusted source for exceptional products and services"/>
-    <!-- Open Graph to help social media platforms display your content correctly -->
-    <meta property="og:type" content="website"/>
-    <meta property="og:url" content="https://haccosmetics.com/"/>
-    <meta property="og:title" content="HAC"/>
-    <meta property="og:description" content="HAC - Your trusted source for exceptional products and services"/>
-    <meta property="og:image" content="https://haccosmetics.com/logo.jpg"/>
-    <meta property="og:locale" content="ar"/>
-    <meta property="og:locale:alternate" content="en"/>
-    <meta property="og:site_name" content="HAC"/>
+<head>
+  <meta charset="utf-8"/>
+  <title>HAC</title>
+  <meta name="google-site-verification" content="d4f1290162cbe4493f48c97aa7c2da590fed70c48b0fe9d66f156b907167d338"/>
+  <link rel="canonical" href="https://haccosmetics.com/ar/"/>
+  <base href="/"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:url" content="https://haccosmetics.com/"/>
-    <meta name="twitter:title" content="HAC"/>
-    <meta name="twitter:description" content="HAC - Your trusted source for exceptional products and services"/>
-    <!-- <meta property="twitter:site_name" content="HAC" /> -->
+  <meta name="description" content="HAC - Your trusted source for exceptional products and services"/>
+  <!-- Open Graph to help social media platforms display your content correctly -->
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="https://haccosmetics.com/"/>
+  <meta property="og:title" content="HAC"/>
+  <meta property="og:description" content="HAC - Your trusted source for exceptional products and services"/>
+  <meta property="og:image" content="https://haccosmetics.com/logo.jpg"/>
+  <meta property="og:locale" content="ar"/>
+  <meta property="og:locale:alternate" content="en"/>
+  <meta property="og:site_name" content="HAC"/>
 
-    <!-- <meta name="twitter:image" content="https://haccosmetics.com/logo.jpg" /> -->
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:url" content="https://haccosmetics.com/"/>
+  <meta name="twitter:title" content="HAC"/>
+  <meta name="twitter:description" content="HAC - Your trusted source for exceptional products and services"/>
+  <!-- <meta property="twitter:site_name" content="HAC" /> -->
 
-    <!-- These help platforms like Facebook load your image faster and display it correctly. -->
-    <meta property="og:image:width" content="1200"/>
-    <meta property="og:image:height" content="630"/>
+  <!-- <meta name="twitter:image" content="https://haccosmetics.com/logo.jpg" /> -->
 
-    
+  <!-- These help platforms like Facebook load your image faster and display it correctly. -->
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
 
-    <!-- Android / Windows Tile Color -->
-    <meta name="theme-color" content="#ffffff"/>
-    <meta name="msapplication-TileColor" content="#ffffff"/>
-    <meta name="msapplication-TileImage" content="https://haccosmetics.com/favicon.ico"/>
-<link rel="icon" href="favicon.ico"/>
 
-    <!-- Standard favicon -->
-    <link rel="icon" type="image/png" sizes="32x32" href="https://haccosmetics.com/favicon-32x32.png"/>
-    <link rel="icon" type="image/png" sizes="16x16" href="https://haccosmetics.com/favicon-16x16.png"/>
 
-    <!-- Shortcut icon (backward compatibility) -->
-    <link rel="shortcut icon" href="https://haccosmetics.com/favicon.ico"/>
+  <!-- Android / Windows Tile Color -->
+  <meta name="theme-color" content="#ffffff"/>
+  <meta name="msapplication-TileColor" content="#ffffff"/>
+  <meta name="msapplication-TileImage" content="https://haccosmetics.com/favicon.ico"/>
+  <link rel="icon" href="favicon.ico"/>
 
-    <!-- Apple Touch Icon (iOS home screen) -->
-    <link rel="apple-touch-icon" sizes="180x180" href="https://haccosmetics.com/apple-touch-icon.png"/>
-    <!-- Safari Pinned Tab (macOS) -->
-    <link rel="mask-icon" href="https://haccosmetics.com/favicon.ico" color="#5bbad5"/>
+  <!-- Standard favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="https://haccosmetics.com/favicon-32x32.png"/>
+  <link rel="icon" type="image/png" sizes="16x16" href="https://haccosmetics.com/favicon-16x16.png"/>
 
-    <script>
-      (function (w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
-        var f = d.getElementsByTagName(s)[0],
-          j = d.createElement(s),
-          dl = l != "dataLayer" ? "&l=" + l : "";
-        j.async = true;
-        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
-        f.parentNode.insertBefore(j, f);
-      })(window, document, "script", "dataLayer", "GTM-PV5PRD3S");
-    </script>
-  <link rel="stylesheet" href="styles-TZU5ZL42.css"></head>
-  <body><script type="text/javascript" id="ng-event-dispatch-contract">(()=>{function p(t,n,r,o,e,i,f,m){return{eventType:t,event:n,targetElement:r,eic:o,timeStamp:e,eia:i,eirp:f,eiack:m}}function u(t){let n=[],r=e=>{n.push(e)};return{c:t,q:n,et:[],etc:[],d:r,h:e=>{r(p(e.type,e,e.target,t,Date.now()))}}}function s(t,n,r){for(let o=0;o<n.length;o++){let e=n[o];(r?t.etc:t.et).push(e),t.c.addEventListener(e,t.h,r)}}function c(t,n,r,o,e=window){let i=u(t);e._ejsas||(e._ejsas={}),e._ejsas[n]=i,s(i,r),s(i,o,!0)}window.__jsaction_bootstrap=c;})();
+  <!-- Shortcut icon (backward compatibility) -->
+  <link rel="shortcut icon" href="https://haccosmetics.com/favicon.ico"/>
+
+  <!-- Apple Touch Icon (iOS home screen) -->
+  <link rel="apple-touch-icon" sizes="180x180" href="https://haccosmetics.com/apple-touch-icon.png"/>
+  <!-- Safari Pinned Tab (macOS) -->
+  <link rel="mask-icon" href="https://haccosmetics.com/favicon.ico" color="#5bbad5"/>
+
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != "dataLayer" ? "&l=" + l : "";
+      j.async = true;
+      j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", "GTM-PV5PRD3S");
+  </script>
+<link rel="stylesheet" href="styles-TZU5ZL42.css"></head>
+
+<body><script type="text/javascript" id="ng-event-dispatch-contract">(()=>{function p(t,n,r,o,e,i,f,m){return{eventType:t,event:n,targetElement:r,eic:o,timeStamp:e,eia:i,eirp:f,eiack:m}}function u(t){let n=[],r=e=>{n.push(e)};return{c:t,q:n,et:[],etc:[],d:r,h:e=>{r(p(e.type,e,e.target,t,Date.now()))}}}function s(t,n,r){for(let o=0;o<n.length;o++){let e=n[o];(r?t.etc:t.et).push(e),t.c.addEventListener(e,t.h,r)}}function c(t,n,r,o,e=window){let i=u(t);e._ejsas||(e._ejsas={}),e._ejsas[n]=i,s(i,r),s(i,o,!0)}window.__jsaction_bootstrap=c;})();
 </script>
-    <noscript><iframe
-        src="https://www.googletagmanager.com/ns.html?id=GTM-PV5PRD3S"
-        height="0"
-        width="0"
-        style="display: none; visibility: hidden"
-      ></iframe
-    ></noscript>
-    <app-root></app-root>
-  <link rel="modulepreload" href="chunk-2ZIGH2V5.js"><link rel="modulepreload" href="chunk-2JUUOAOF.js"><link rel="modulepreload" href="chunk-QGJCV5E6.js"><link rel="modulepreload" href="chunk-YGH7X7QM.js"><link rel="modulepreload" href="chunk-CPKJYG5O.js"><link rel="modulepreload" href="chunk-ILKNJAL2.js"><link rel="modulepreload" href="chunk-IFT7KU7L.js"><link rel="modulepreload" href="chunk-RWEUAPIL.js"><link rel="modulepreload" href="chunk-FRLRBATI.js"><link rel="modulepreload" href="chunk-AALZ7QMN.js"><script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-3WF7HKMX.js" type="module"></script></body>
-</html>
-`;
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PV5PRD3S" height="0" width="0"
+      style="display: none; visibility: hidden"></iframe></noscript>
+  <app-root></app-root>
+<link rel="modulepreload" href="chunk-2ZIGH2V5.js"><link rel="modulepreload" href="chunk-2JUUOAOF.js"><link rel="modulepreload" href="chunk-QGJCV5E6.js"><link rel="modulepreload" href="chunk-YGH7X7QM.js"><link rel="modulepreload" href="chunk-CPKJYG5O.js"><link rel="modulepreload" href="chunk-ILKNJAL2.js"><link rel="modulepreload" href="chunk-IFT7KU7L.js"><link rel="modulepreload" href="chunk-RWEUAPIL.js"><link rel="modulepreload" href="chunk-FRLRBATI.js"><link rel="modulepreload" href="chunk-AALZ7QMN.js"><script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-EEAWTBRR.js" type="module"></script></body>
+
+</html>`;
