@@ -4,7 +4,7 @@ export default `<!DOCTYPE html>
 <head>
   <meta charset="utf-8">
   <title>HAC</title>
-  <meta name="google-site-verification" content="d4f1290162cbe4493f48c97aa7c2da590fed70c48b0fe9d66f156b907167d338">
+  <meta name="google-site-verification" content="MB5P51CU7W3g2K3w6uJETtdy3QZzU2XGjMGEdRcZHJ8">
   <link rel="canonical" href="https://haccosmetics.com/ar/">
   <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
