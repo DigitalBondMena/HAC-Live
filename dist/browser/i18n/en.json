@@ -1025,6 +1025,10 @@
     "wishlist": {
       "description": "View and manage your favorite products",
       "title": "My Wishlist | HAC"
+    },
+    "thankyou": {
+      "title": "Thank You - Order Registered | HAC",
+      "description": "Special order confirmation page at HAC"
     }
   },
   "payment-method": "payment method ",
@@ -1328,5 +1332,83 @@
     "message": "You are not authorized to access this page",
     "continue-shopping": "Continue Shopping",
     "contact-us": "Contact Us"
+  },
+  "special_order": {
+    "button": "Register Your Order",
+    "modal_title": "Register Your Order",
+    "modal_subtitle": "Please fill in the following details to register your order and our team will contact you shortly",
+    "product_label": "Selected Product",
+    "special_product": "Special Product",
+    "quantity": "Quantity",
+    "fields": {
+      "name": {
+        "label": "Full Name",
+        "placeholder": "Enter your full name"
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "example@domain.com"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "05xxxxxxxx"
+      },
+      "address": {
+        "label": "Detailed Address",
+        "placeholder": "City, District, Street name, Building number"
+      }
+    },
+    "validation": {
+      "name": {
+        "required": "Full name is required",
+        "minlength": "Name must be at least 3 characters"
+      },
+      "email": {
+        "required": "Email address is required",
+        "invalid": "Please enter a valid email address"
+      },
+      "phone": {
+        "required": "Phone number is required",
+        "pattern": "Phone number must start with 05 and contain 10 digits"
+      },
+      "address": {
+        "required": "Detailed address is required",
+        "minlength": "Address must be at least 5 characters"
+      }
+    },
+    "submit_button": "Confirm Order Registration",
+    "submitting": "Registering order...",
+    "cancel": "Cancel",
+    "success": {
+      "title": "Order Registered Successfully",
+      "message": "Thank you! Your special order has been received and our team will contact you soon."
+    },
+    "error": {
+      "title": "Registration Failed",
+      "message": "An error occurred while registering your order. Please try again."
+    }
+  },
+  "thank_you": {
+    "title": "Thank You! Your Order Has Been Placed Successfully",
+    "subtitle": "We are delighted to serve you. Your order details have been received and our team will contact you shortly to confirm delivery details.",
+    "status_badge": "Order Under Review & Processing",
+    "response_time": "You will be contacted during business hours",
+    "order_details_title": "Order Summary Details",
+    "product_name": "Product Name",
+    "quantity": "Quantity Requested",
+    "customer_name": "Customer Name",
+    "phone": "Phone Number",
+    "delivery_address": "Delivery Address",
+    "timeline": {
+      "title": "What Happens Next?",
+      "step1_title": "Order Received",
+      "step1_desc": "Your order has been registered in our system and assigned to a customer service specialist.",
+      "step2_title": "Confirmation Call",
+      "step2_desc": "We will reach out via phone or WhatsApp to verify delivery details and timing.",
+      "step3_title": "Preparation & Delivery",
+      "step3_desc": "Your product will be carefully packed and delivered straight to your doorstep promptly."
+    },
+    "continue_shopping": "Continue Shopping",
+    "back_to_home": "Back to Home"
   }
 }

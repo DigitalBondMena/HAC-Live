@@ -1,0 +1,1 @@
+import{a}from"./chunk-G55LOTBU.js";import"./chunk-OYRULT35.js";import"./chunk-ABVNHWRX.js";import"./chunk-NV52CCWE.js";import"./chunk-5CNDI6SM.js";import"./chunk-2JGYKJ44.js";export{a as CustomTranslatePipe};
