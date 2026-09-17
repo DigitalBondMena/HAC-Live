@@ -10,7 +10,6 @@ export default `<!DOCTYPE html>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="robots" content="index, follow">
   <meta name="description" content="HAC - Your trusted source for exceptional products and services"/>
-  <!-- Open Graph to help social media platforms display your content correctly -->
   <meta property="og:type" content="website"/>
   <meta property="og:url" content="https://haccosmetics.com/"/>
   <meta property="og:title" content="HAC"/>
@@ -20,37 +19,24 @@ export default `<!DOCTYPE html>
   <meta property="og:locale:alternate" content="en"/>
   <meta property="og:site_name" content="HAC"/>
 
-  <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:url" content="https://haccosmetics.com/"/>
   <meta name="twitter:title" content="HAC"/>
   <meta name="twitter:description" content="HAC - Your trusted source for exceptional products and services"/>
-  <!-- <meta property="twitter:site_name" content="HAC" /> -->
-
-  <!-- <meta name="twitter:image" content="https://haccosmetics.com/logo.jpg" /> -->
-
-  <!-- These help platforms like Facebook load your image faster and display it correctly. -->
   <meta property="og:image:width" content="1200"/>
   <meta property="og:image:height" content="630"/>
 
-
-
-  <!-- Android / Windows Tile Color -->
   <meta name="theme-color" content="#ffffff"/>
   <meta name="msapplication-TileColor" content="#ffffff"/>
   <meta name="msapplication-TileImage" content="https://haccosmetics.com/favicon.ico"/>
   <link rel="icon" href="favicon.ico"/>
 
-  <!-- Standard favicon -->
   <link rel="icon" type="image/png" sizes="32x32" href="https://haccosmetics.com/favicon-32x32.png"/>
   <link rel="icon" type="image/png" sizes="16x16" href="https://haccosmetics.com/favicon-16x16.png"/>
 
-  <!-- Shortcut icon (backward compatibility) -->
   <link rel="shortcut icon" href="https://haccosmetics.com/favicon.ico"/>
 
-  <!-- Apple Touch Icon (iOS home screen) -->
   <link rel="apple-touch-icon" sizes="180x180" href="https://haccosmetics.com/apple-touch-icon.png"/>
-  <!-- Safari Pinned Tab (macOS) -->
   <link rel="mask-icon" href="https://haccosmetics.com/favicon.ico" color="#5bbad5"/>
 
   <script>
@@ -65,13 +51,13 @@ export default `<!DOCTYPE html>
       f.parentNode.insertBefore(j, f);
     })(window, document, "script", "dataLayer", "GTM-PV5PRD3S");
   </script>
-<link rel="stylesheet" href="styles-WON3WVLW.css"></head>
+<link rel="stylesheet" href="styles-7J3ACGYV.css"></head>
 
 <body><script type="text/javascript" id="ng-event-dispatch-contract">(()=>{function p(t,n,r,o,e,i,f,m){return{eventType:t,event:n,targetElement:r,eic:o,timeStamp:e,eia:i,eirp:f,eiack:m}}function u(t){let n=[],r=e=>{n.push(e)};return{c:t,q:n,et:[],etc:[],d:r,h:e=>{r(p(e.type,e,e.target,t,Date.now()))}}}function s(t,n,r){for(let o=0;o<n.length;o++){let e=n[o];(r?t.etc:t.et).push(e),t.c.addEventListener(e,t.h,r)}}function c(t,n,r,o,e=window){let i=u(t);e._ejsas||(e._ejsas={}),e._ejsas[n]=i,s(i,r),s(i,o,!0)}window.__jsaction_bootstrap=c;})();
 </script>
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PV5PRD3S" height="0" width="0"
       style="display: none; visibility: hidden"></iframe></noscript>
   <app-root></app-root>
-<link rel="modulepreload" href="chunk-SY5DOLGY.js"><link rel="modulepreload" href="chunk-347MV2YY.js"><link rel="modulepreload" href="chunk-SZBODZTU.js"><link rel="modulepreload" href="chunk-AP75FDIB.js"><link rel="modulepreload" href="chunk-YANKRRDN.js"><link rel="modulepreload" href="chunk-ENNZSFU2.js"><link rel="modulepreload" href="chunk-PZZ5CJZI.js"><link rel="modulepreload" href="chunk-WECFSSGA.js"><link rel="modulepreload" href="chunk-KTWF4AMP.js"><link rel="modulepreload" href="chunk-I7E4HOQF.js"><script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-5II4ML6J.js" type="module"></script></body>
+<link rel="modulepreload" href="chunk-6H2X7RUA.js"><link rel="modulepreload" href="chunk-VZ5W56MK.js"><link rel="modulepreload" href="chunk-M666YDLD.js"><link rel="modulepreload" href="chunk-OJUGKURK.js"><link rel="modulepreload" href="chunk-EDLL6H22.js"><link rel="modulepreload" href="chunk-DIAA34L3.js"><link rel="modulepreload" href="chunk-2YAMT3GI.js"><link rel="modulepreload" href="chunk-77ROFXYZ.js"><link rel="modulepreload" href="chunk-GPCKEABX.js"><link rel="modulepreload" href="chunk-VP32EY6Z.js"><script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-PUA3RDSX.js" type="module"></script></body>
 
 </html>`;

@@ -22,70 +22,70 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-NLCUBEPA.js"
+      "chunk-OSTOGSU6.js"
     ],
     "route": "/*/login"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-NLCUBEPA.js"
+      "chunk-OSTOGSU6.js"
     ],
     "route": "/*/register"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-NLCUBEPA.js"
+      "chunk-OSTOGSU6.js"
     ],
     "route": "/*/register/personal"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-NLCUBEPA.js"
+      "chunk-OSTOGSU6.js"
     ],
     "route": "/*/register/password"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-NLCUBEPA.js"
+      "chunk-OSTOGSU6.js"
     ],
     "route": "/*/register/address"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-NLCUBEPA.js"
+      "chunk-OSTOGSU6.js"
     ],
     "route": "/*/register/*"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-NLCUBEPA.js"
+      "chunk-OSTOGSU6.js"
     ],
     "route": "/*/register/*/personal"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-NLCUBEPA.js"
+      "chunk-OSTOGSU6.js"
     ],
     "route": "/*/register/*/password"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-NLCUBEPA.js"
+      "chunk-OSTOGSU6.js"
     ],
     "route": "/*/register/*/address"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-GK3OM5SP.js"
+      "chunk-3W4KTX45.js"
     ],
     "route": "/*/wishlist"
   },
@@ -96,7 +96,7 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-WV3TG3KM.js"
+      "chunk-A5HDICF5.js"
     ],
     "route": "/*/blog/*"
   },
@@ -107,48 +107,48 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-KVGSNZC7.js"
+      "chunk-E77CKGDV.js"
     ],
     "route": "/*/product-details/*"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-AHYTMJLB.js",
-      "chunk-75DB2AES.js",
-      "chunk-3UMWYW3P.js",
-      "chunk-2ZXNW4J6.js"
+      "chunk-7MAO44X2.js",
+      "chunk-FJT3JDDW.js",
+      "chunk-GZQOZIQU.js",
+      "chunk-JILKH5YU.js"
     ],
     "route": "/*/about-us"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-47ABY723.js",
-      "chunk-75DB2AES.js",
-      "chunk-3UMWYW3P.js"
+      "chunk-KDBLZJGQ.js",
+      "chunk-FJT3JDDW.js",
+      "chunk-GZQOZIQU.js"
     ],
     "route": "/*/contact-us"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-CN66MZOO.js"
+      "chunk-RTT3GLFN.js"
     ],
     "route": "/*/thankYou"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-TRCZE45Q.js",
-      "chunk-75DB2AES.js"
+      "chunk-EX3UPSR7.js",
+      "chunk-FJT3JDDW.js"
     ],
     "route": "/*/cart"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-B4DJ7G6B.js"
+      "chunk-2BGYM5TX.js"
     ],
     "redirectTo": "/*/profile/personal",
     "route": "/*/profile"
@@ -156,50 +156,50 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-B4DJ7G6B.js"
+      "chunk-2BGYM5TX.js"
     ],
     "route": "/*/profile/personal"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-B4DJ7G6B.js"
+      "chunk-2BGYM5TX.js"
     ],
     "route": "/*/profile/orders"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-B4DJ7G6B.js"
+      "chunk-2BGYM5TX.js"
     ],
     "route": "/*/profile/address"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-B4DJ7G6B.js"
+      "chunk-2BGYM5TX.js"
     ],
     "route": "/*/profile/password"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-B4DJ7G6B.js"
+      "chunk-2BGYM5TX.js"
     ],
     "route": "/*/profile/account-management"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-7FSRNMTL.js"
+      "chunk-XU4XWGWM.js"
     ],
     "route": "/*/privacy"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-EGMIAQHL.js",
-      "chunk-75DB2AES.js"
+      "chunk-ZOWQLCIZ.js",
+      "chunk-FJT3JDDW.js"
     ],
     "redirectTo": "/*/checkout/checkout-address",
     "route": "/*/checkout"
@@ -207,32 +207,32 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-EGMIAQHL.js",
-      "chunk-75DB2AES.js"
+      "chunk-ZOWQLCIZ.js",
+      "chunk-FJT3JDDW.js"
     ],
     "route": "/*/checkout/checkout-address"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-EGMIAQHL.js",
-      "chunk-75DB2AES.js"
+      "chunk-ZOWQLCIZ.js",
+      "chunk-FJT3JDDW.js"
     ],
     "route": "/*/checkout/payment"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-EGMIAQHL.js",
-      "chunk-75DB2AES.js"
+      "chunk-ZOWQLCIZ.js",
+      "chunk-FJT3JDDW.js"
     ],
     "route": "/*/checkout/track-order"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-EGMIAQHL.js",
-      "chunk-75DB2AES.js"
+      "chunk-ZOWQLCIZ.js",
+      "chunk-FJT3JDDW.js"
     ],
     "route": "/*/checkout/track-order/*"
   },
@@ -244,8 +244,8 @@ export default {
 ],
   entryPointToBrowserMapping: undefined,
   assets: {
-    'index.csr.html': {size: 44949, hash: 'c8f646521f52803fe76cd395752195e489ccf9b4daf372bbbf88c8201601e587', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
-    'index.server.html': {size: 4545, hash: '70cd5ae538cb4caea43f1623d9c6f9259999312e025448ee6ed7462641a7109f', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
-    'styles-WON3WVLW.css': {size: 242708, hash: 'U6pyJ1tjnvY', text: () => import('./assets-chunks/styles-WON3WVLW_css.mjs').then(m => m.default)}
+    'index.csr.html': {size: 44129, hash: 'e2a765613603b6867dc519947b35fd2919492fd97e50886b2fa9d3b87528f53e', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
+    'index.server.html': {size: 3994, hash: '0db27311f7d70dc9560244788b8624018c4f1733e2d834f3c095576839bb0188', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
+    'styles-7J3ACGYV.css': {size: 246225, hash: 'nrSXjtGMrUU', text: () => import('./assets-chunks/styles-7J3ACGYV_css.mjs').then(m => m.default)}
   },
 };
